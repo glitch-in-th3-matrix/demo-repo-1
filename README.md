@@ -2,6 +2,5 @@
 Hello World!  
 Lorem Ipsum
 
-# Feature Branch
-
-1. Open Index.html in your browser.
+# Feature branch
+Open Index.html in your browser
